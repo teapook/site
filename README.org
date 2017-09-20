@@ -1,0 +1,18 @@
+* Teapook
+** website
+*** ghost
+*** snipcart shopping car
+** POS
+*** bot 
+*** IOTA or ethereum?
+** IoT
+*** 門禁
+*** 監視器
+** API 制定 
+*** [[https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol][Hyper Text Coffee Pot Control Protocol Implement]]
+*** website api
+** security  
+*** security.txt
+
+
+
