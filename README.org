@@ -1,4 +1,31 @@
 * Teapook
+<<<<<<< HEAD
+包含各種規劃，盡量以開源方案為主
+
+台灣已經有夠多咖啡廳了，但是沒有那麼多台灣人喝咖啡，
+** open store rfc 
+** [#A] 官網 website
+*** ghost
+*** snipcart shopping car
+*** font 
+** [#A] POS
+   每次結帳買單有夠麻煩，交給工讀生還要擔心會不會出弊端，管錢好麻煩來弄個pos系統
+   原 default POS 主機似乎被拔走
+*** bot interface 
+*** blockchain IOTA or ethereum?
+    暫時不上線底層偷偷運作測試。
+*** order database
+*** point db  
+*** stored-value system 
+*** hardware 
+已經有許多現成開源pos方案，但是硬體架構的設計...
+** [#C] IoT
+*** 門禁
+    [[https://hackmd.io/IwIwrADMAcDMDsBaWBjAhixAWApgTjUTwBMxCAmHcgNj2rADMQdqIg==?view][B910門禁系統規劃]]
+*** 監視器
+    [[https://www.facebook.com/OSSGeekLab/posts/1479388885431727][osslab monitor solution]]
+    [[https://zoneminder.com/][zonemider]]
+=======
 ** website
 *** ghost
 *** snipcart shopping car
@@ -8,11 +35,51 @@
 ** IoT
 *** 門禁
 *** 監視器
+>>>>>>> 8b1af11... outline 1st edition
 ** API 制定 
 *** [[https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol][Hyper Text Coffee Pot Control Protocol Implement]]
 *** website api
 ** security  
 *** security.txt
+<<<<<<< HEAD
+  https://securitytxt.org  
+
+**** bug bounty
+     who ever can access the server here by leave message 
+     exploit by <hacker id gpg key suggested>
+     could reward with 2 free drink 
+
+     by physical sharing exploit method 
+     2 more free drink 
+
+     by broadcast sharing 
+     2 more free drink 
+** [#A] 開源甜點夥伴
+
+星期二下午會開始整理 teapook 這邊的廚房，準備開始甜點計畫的部分，歡迎來參與 day0 ？
+
+之後會開始收對這個專案有興趣的人跟他的履歷，如果不在意群組其他人看你的自介履歷甚至想讓群組多認識你的就直接丟在群組裡吧
+請以以下格式
+
+你的名字：
+自介你是誰：
+為什麼想來參與甜食研發製造部：
+
+由我們這邊提供材料與設備，研製開源甜食食譜的計畫
+我忘記還有誰有興趣了
+*** gather people
+** 販賣機 vending machine 
+** [#A] server structure 
+   以 PVE 作為伺服器底層架構，方便各種擴建
+*** TODO zfs structure  
+*** honeybot  
+** [#B] network 
+** keynote 
+   a group of speaker , digital trash exchange for money .
+** business plan 
+** COC
+=======
 
 
 
+>>>>>>> 8b1af11... outline 1st edition
